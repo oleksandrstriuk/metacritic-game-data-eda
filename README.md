@@ -1,2 +1,4 @@
-# metacritic-game-data-eda
-Metacritic game data exploratory data analysis.
+# Metacritic Game Data EDA
+The notebook is based on the [Metacritic Games](https://www.kaggle.com/datasets/henrylin03/metacritic-games-user-reviews-and-metascores) dataset, which contains Metascores and user reviews of video games from Metacritic.com. The dataset includes all games with User Scores and/or Metascores on all platforms except iOS, and it was scraped using a [Python script](https://github.com/henrylin03/video-games/blob/main/scraper.py) and cleaned using [pandas and SQL](https://github.com/henrylin03/video-games/blob/main/analysis.ipynb). 
+
+The notebook explores the dataset using various data analysis techniques, including visualization and statistical analysis, to gain insights into the video game industry.
