@@ -6,9 +6,13 @@ The notebook explores the dataset using various data analysis techniques, includ
 # Required Python Libraries
 
 Pandas — for data manipulation and analysis.
+
 Matplotlib — for creating static visualizations.
+
 NumPy — for numerical computing and array and matrix operations.
+
 Seaborn — for statistical data visualization, built on top of Matplotlib and providing additional features for exploring and analyzing data.
+
 SciPy — for scientific computing (optimization, integration, interpolation, signal and image processing).
 
 # Input
